@@ -1,0 +1,12 @@
+audio_output/
+interactive_audio/
+story_script.txt
+complete_story.mp3
+example_script.txt
+custom_script.txt
+streaming_script.txt
+example_audio/
+custom_audio/
+streaming_audio/
+.env
+__pycache__/
