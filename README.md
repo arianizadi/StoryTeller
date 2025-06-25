@@ -2,6 +2,12 @@
 
 A Python application that generates engaging stories using MiniMax's AI models and converts them into audio with distinct character voices.
 
+<!-- Play Example Audio -->
+<audio controls>
+  <source src="./example_story.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ## Features
 
 - **AI Story Generation**: Uses MiniMax-M1 model to create engaging stories with multiple characters
