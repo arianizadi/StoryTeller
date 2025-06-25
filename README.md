@@ -5,7 +5,6 @@ A Python application that generates engaging stories using MiniMax's AI models a
 <!-- Play Example Audio -->
 <audio controls>
   <source src="./example_story.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 ## Features
